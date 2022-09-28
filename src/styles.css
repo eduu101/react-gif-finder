@@ -3,7 +3,7 @@
     background-color: rgb(38, 37, 38);
   }
   h1{
-    color: rgb(255, 255, 255);
+    color: rgb(201, 201, 201);
     margin-bottom: 1px;
     font-size: 4rem;
   }
@@ -31,7 +31,7 @@
   }
   @keyframes slidebg{to{background-position:2200vw}}
   #textbox::placeholder{
-    color: rgb(0, 0, 0);
+    color: rgb(52, 52, 52);
   }
   h2 {
     font-size: 1.5rem;
@@ -39,12 +39,12 @@
   }
   
   h3 {
-    color: rgb(255, 255, 255);
+    color: rgb(201, 201, 201);
     font-size: 3rem;
     margin-bottom: 5px;
   }
   h5{
-    color:rgb(255, 255, 255);
+    color:rgb(201, 201, 201);
     font-size: 1.3rem;
     margin-top: 1px;
     margin-left: 2px;
